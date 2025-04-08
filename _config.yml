@@ -19,8 +19,8 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Beyond the Crowds"
 title_separator          : "-"
-subtitle                 : "Seeking silence in noisy places." # site tagline that appears below site title in masthead
-name                     : "Jerome Mesters"
+subtitle                 : "Seeking silence in noisy places" # site tagline that appears below site title in masthead
+name                     : "Jérôme Mesters"
 description              : "Travel stories from the far side of the crowd."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jerome Mesters"
+  name             : "Jérôme Mesters"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Exploring the world, one thoughtful photo at a time."
   location         : "Belgium"
