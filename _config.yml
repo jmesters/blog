@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "neon" # "default" # "air", "aqua", "contrast", "dark
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Beyond the Crowds"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Seeking silence in noisy places." # site tagline that appears below site title in masthead
 name                     : "Jerome Mesters"
-description              : "An amazing website."
+description              : "Travel stories from the far side of the crowd."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Jerome Mesters"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Exploring the world, one thoughtful photo at a time."
   location         : "Belgium"
   email            :
   links:
@@ -136,7 +136,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/jerome.mesters/"
 
 # Site Footer
 footer:
@@ -158,7 +158,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/jerome.mesters/"
 
 
 # Reading Files
