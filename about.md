@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-👋 Hi, I'm Jerome!
+👋 Hi, I'm Jérôme!
 
 🌍 I'm passionate about traveling, photography, and exploring off-the-beaten-path locations around the world. My ideal trip involves discovering hidden gems, soaking in local culture, and capturing those unique moments that make each place special.
 
