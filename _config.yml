@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jérôme Mesters"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.webp" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Exploring the world, one thoughtful photo at a time."
   location         : "Belgium"
   email            :
