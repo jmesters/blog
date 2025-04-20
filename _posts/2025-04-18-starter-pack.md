@@ -1,5 +1,5 @@
 ---
-title: "Start pack"
+title: "Starter pack"
 date: 2025-04-18
 layout: single
 author_profile: true
